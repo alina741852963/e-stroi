@@ -1,7 +1,9 @@
 import React from "react";
 const Products = () =>{
-    return(
+    return(<>
         <div>Helooo!</div>
+        <p>hiiii!</p>
+        </>
     )
 }
 
