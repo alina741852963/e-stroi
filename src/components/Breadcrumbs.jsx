@@ -17,6 +17,7 @@ export const Arrow = styled.span`
 `;
 
 export const Breadcrumbs = ({ links }) => {
+
 	console.log("looooogs");
 	return (
 		<>
