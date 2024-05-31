@@ -17,7 +17,8 @@ export const Arrow = styled.span`
 `;
 
 export const Breadcrumbs = ({ links }) => {
-	console.log(links, "links")
+
+	console.log("looooogs");
 	return (
 		<>
 			{links.map((link, index) => {
